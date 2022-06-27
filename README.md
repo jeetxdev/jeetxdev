@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jeet Mukherjee
+- 👋 Hi, I’m Jeet Mukherjee from 🇮🇳
 - 👀 I’m interested in Coding, Video games, Action Movies
-- 👨‍💼 I work as a Frontend Developer
-- 💞️ I’m looking to collaborate on open source projects
+- 💼 I am a Fullstack developer 
+- 🤝 I’m looking to collaborate on open source projects
 
 <!---
 jeetdev1/jeetdev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
