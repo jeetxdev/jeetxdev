@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeet Mukherjee from 🇮🇳
+- 👋 Hi, I’m Jeet from 🇮🇳
 - 👀 I’m interested in Coding, Video games, Action Movies
 - 💼 I am a Fullstack developer 
 - 🤝 I’m looking to collaborate on open source projects
