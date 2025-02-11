@@ -17,8 +17,8 @@ I'm a passionate **full-stack developer** with **10 years of experience** in bui
 
 ## 📫 Connect with Me  
 - 🏢 **GitHub:** [jeetxdev](https://github.com/jeetxdev)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-- 📧 **Email:** your.email@example.com  
+- 💼 **LinkedIn:** [jeetm](https://www.linkedin.com/in/jeetm)  
+- 📧 **Email:** jeetmukherjee100@gmail.com  
 
 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
 
