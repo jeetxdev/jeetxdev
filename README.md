@@ -1,11 +1,12 @@
 # Hi there, I'm Jeet! 👋  
 
-🚀 **Frontend Developer | JavaScript Enthusiast | Problem Solver**  
+🚀 **Full-Stack Developer | JavaScript Enthusiast | Problem Solver**  
 
-I'm a passionate frontend web developer with **10 years of experience** in building **scalable, user-friendly applications**. I love working with **JavaScript, React, and modern frontend technologies** to create seamless user experiences.  
+I'm a passionate **full-stack developer** with **10 years of experience** in building **scalable, user-friendly applications**. I specialize in **JavaScript, React, Node.js**, and modern technologies to create seamless user experiences from front to back.  
 
 ## 🔥 What I Do  
 - 🖥️ **Frontend Development**: JavaScript, React, TypeScript, HTML, CSS  
+- 🧑‍💻 **Backend Development**: Node.js  
 - ⚡ **Performance Optimization**: Writing clean, efficient, and scalable code  
 - 🏗️ **System Design & DSA**: Exploring data structures and algorithms to build efficient solutions  
 
@@ -16,12 +17,13 @@ I'm a passionate frontend web developer with **10 years of experience** in build
 
 ## 📫 Connect with Me  
 - 🏢 **GitHub:** [jeetxdev](https://github.com/jeetxdev)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jeetm)  
+- 💼 **LinkedIn:** [Your LinkedIn Profile](#)  
 - 📧 **Email:** your.email@example.com  
 
 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
 
 Thanks for stopping by! ⭐ **Feel free to check out my repositories and projects.**  
+
 
 
 <!---
