@@ -20,13 +20,4 @@ I'm a passionate **full-stack developer** with **10 years of experience** in bui
 - 💼 **LinkedIn:** [jeetm](https://www.linkedin.com/in/jeetm)  
 - 📧 **Email:** jeetmukherjee100@gmail.com  
 
-💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
-
-Thanks for stopping by! ⭐ **Feel free to check out my repositories and projects.**  
-
-
-
-<!---
-jeetdev1/jeetdev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by!
