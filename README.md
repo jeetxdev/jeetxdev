@@ -5,7 +5,7 @@
 I'm a passionate **full-stack developer** with **10 years of experience** in building **scalable, user-friendly applications**. I specialize in **JavaScript, React, Node.js**, and modern technologies to create seamless user experiences from front to back.  
 
 ##  What I Do  
-- **Frontend Development**: JavaScript, React, TypeScript, HTML, CSS  
+- **Frontend Development**: JavaScript, React, Next.js, TypeScript, HTML, CSS  
 - **Backend Development**: Node.js  
 - **Performance Optimization**: Writing clean, efficient, and scalable code  
 - **System Design & DSA**: Exploring data structures and algorithms to build efficient solutions  
