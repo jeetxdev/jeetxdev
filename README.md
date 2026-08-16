@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | JavaScript Enthusiast | Problem Solver**  
 
-I'm a passionate **full-stack developer** with **10 years of experience** in building **scalable, user-friendly applications**. I specialize in **JavaScript, React, Node.js**, and modern technologies to create seamless user experiences from front to back.  
+I'm a passionate **full-stack developer** with **11 years of experience** in building **scalable, user-friendly applications**. I specialize in **JavaScript, React, Node.js**, and modern technologies to create seamless user experiences from front to back.  
 
 ##  What I Do  
 - **Frontend Development**: JavaScript, React, Next.js, TypeScript, HTML, CSS  
