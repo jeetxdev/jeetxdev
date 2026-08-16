@@ -7,8 +7,7 @@ I'm a passionate **full-stack developer** with **10 years of experience** in bui
 ##  What I Do  
 - **Frontend Development**: JavaScript, React, Next.js, TypeScript, HTML, CSS  
 - **Backend Development**: Node.js  
-- **Performance Optimization**: Writing clean, efficient, and scalable code  
-- **System Design & DSA**: Exploring data structures and algorithms to build efficient solutions  
+- **Performance Optimization**: Writing clean, efficient, and scalable code   
 
 ## Tech Interests  
 - Advanced **React & Next.js** patterns  
